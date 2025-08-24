@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Intro to Python Programming",
+        "tags": ["python", "programming", "basics"],
+        "format": "video",
+        "level": "beginner"
+    },
+    {
+        "title": "Data Structures in Python",
+        "tags": ["python", "data structures"],
+        "format": "reading",
+        "level": "intermediate"
+    },
+    {
+        "title": "Web Development with Flask",
+        "tags": ["python", "web", "flask"],
+        "format": "video",
+        "level": "intermediate"
+    },
+    {
+        "title": "Learn JavaScript",
+        "tags": ["javascript", "web", "frontend"],
+        "format": "video",
+        "level": "beginner"
+    }
+]
